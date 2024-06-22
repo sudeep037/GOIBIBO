@@ -1,0 +1,6 @@
+com\utilities\baseConfiguration.class
+com\utilities\IpathConstants.class
+com\utilities\webdriverUtility.class
+com\utilities\propertyUtility.class
+com\utilities\databaseUtility.class
+com\utilities\excelUtility.class
