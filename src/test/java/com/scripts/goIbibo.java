@@ -82,7 +82,7 @@ public class goIbibo extends javascriptActions {
 		
 		for(WebElement date : allDepartDates)
 		{
-			if(date.getText().equals("22"))
+			if(date.getText().equals("25"))
 			{
 				performClickUsingJavascript(date, driver);
 				break;

@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.scripts.goIbibo">
+      <class name="com.scripts.javaProgram">
         <methods>
-          <include name="test"/>
+          <include name="NSEAutomation"/>
         </methods>
-      </class> <!-- com.scripts.goIbibo -->
+      </class> <!-- com.scripts.javaProgram -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
