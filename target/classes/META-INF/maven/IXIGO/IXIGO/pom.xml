@@ -6,6 +6,7 @@
   
   <properties>
     <suiteFile>regression.xml</suiteFile>
+    <suiteFile>smoke.xml</suiteFile>
   </properties>
   
   <dependencies>
